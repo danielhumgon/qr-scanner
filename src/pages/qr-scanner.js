@@ -14,7 +14,7 @@ class Test extends Component {
 
 
     this.state = {
-      result: 'No result',
+      result: 'No Result',
       facingMode: 'environment'
     }
   }

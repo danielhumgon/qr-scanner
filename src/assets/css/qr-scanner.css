@@ -11,4 +11,6 @@
 .qr-result {
     margin-top: 2em;
     word-break: break-all;
+    margin-left: 2em;
+    margin-right: 2em;
 }
